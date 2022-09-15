@@ -7,8 +7,10 @@ https://v1.nnnen.com/tools/Api/DownNE
 # 使用方法
 https://help.nnnen.com/
 
-# 支持以下功能
+# 软件截图->抖音
+![](http://apk.nnnen.com/Screenshot_2022-09-15-17-09-09-43_f0070397fe0623e64a28a94c9e1fa093.jpg)
 
+# 支持以下功能
 - 皮皮虾	无水印下载视频
 - 皮皮虾	无水印下载图片
 - 皮皮虾	清爽界面

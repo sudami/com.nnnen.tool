@@ -1,6 +1,27 @@
 # NE+
 超20+款APP Hook
 
+- soul
+- 皮皮虾
+- 抖音
+- 最右
+- MOMO陌陌
+- 快手
+- 抖音极速版
+- 百度贴吧
+- 微博
+- 快手极速版
+- 小红书
+- 皮皮搞笑
+- 酷我音乐
+- 番茄免费小说
+- 唱吧
+- 七猫免费小说
+- Telegram
+- TikTok
+- MX 播放器专业版
+- 西瓜视频
+
 # download/下载
 https://v1.nnnen.com/tools/Api/DownNE
 
